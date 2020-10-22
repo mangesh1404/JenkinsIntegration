@@ -34,3 +34,4 @@ public class A_Test {
 	public void test03()
 	{
 	}
+}
