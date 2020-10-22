@@ -30,4 +30,7 @@ public class A_Test {
 		driver.findElement(By.id("password")).sendKeys("123456");
 		driver.findElement(By.xpath("//button")).click();
 	}
-}
+	@Test
+	public void test03()
+	{
+	}
